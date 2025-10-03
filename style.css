@@ -1,6 +1,6 @@
 body{
 background-color: lavender;
-color: white;
+color: black;
 font-family: "Playfair Display", serif;
 display: flex;
 justify-content: center;
@@ -9,8 +9,8 @@ height: 700px;
 margin: 0;
 
 bottom{
-    background-color: azure;
-    color: white;
+    background-color:gainsboro;
+    color: black;
     font-family: "Playfair Display", serif;
 }
 }
